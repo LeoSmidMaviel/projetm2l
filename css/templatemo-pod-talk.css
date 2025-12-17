@@ -1246,3 +1246,14 @@ main {
   }
 
 }
+
+.textintro {
+  color: #000000;
+  font-size: large;
+  font-weight: bold;
+}
+
+.textbase {
+  color: #000000;
+  font-size: large;
+}
