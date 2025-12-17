@@ -1253,6 +1253,25 @@ main {
   font-weight: bold;
 }
 
+.texttitreh2 {
+  background: var(--section-bg-color);
+  border-radius: var(--border-radius-large);
+  display: inline-block;
+  position: relative;
+  z-index: 2;
+  margin-bottom: 0;
+  padding: 10px 25px;
+  color: #000000;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.texttitreh3 {
+  color: #000000;
+  font-size: 25px;
+  font-weight: bold;
+}
+
 .textbase {
   color: #000000;
   font-size: large;
